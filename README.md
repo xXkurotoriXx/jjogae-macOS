@@ -1,4 +1,4 @@
-# 쪼개 상황실(a) · macOS
+# 쪼개 상황실 · macOS
 
 아홀로 루파의 치지직·YouTube 채널과 네이버 카페 정보를 모아 보는 macOS 팬 앱입니다.
 
@@ -19,7 +19,7 @@
 macOS 26 이상 · Apple Silicon 및 Intel
 
 1. [최신 릴리즈](https://github.com/xXkurotoriXx/jjogae-macOS/releases/latest)에서 DMG를 받습니다.
-2. DMG를 열고 **쪼개 상황실(a).app**을 **응용 프로그램**으로 옮깁니다.
+2. DMG를 열고 **쪼개 상황실.app**을 **응용 프로그램**으로 옮깁니다.
 3. 실행이 차단되면 **시스템 설정 → 개인정보 보호 및 보안 → 그래도 열기 → 열기**를 선택합니다.
 4. 앱 설정에서 치지직·네이버와 YouTube에 로그인합니다.
 
