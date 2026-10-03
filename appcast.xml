@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Sat, 03 Oct 2026 09:45:31 +0900</pubDate>
+            <title>1.0.6</title>
+            <pubDate>Sat, 03 Oct 2026 22:43:49 +0900</pubDate>
             <link>https://github.com/xXkurotoriXx/jjogae-macOS</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[데이터 삭제관련 기능강화
+            <description sparkle:format="plain-text"><![CDATA[업데이트가 있을시 알람을 보냅니다
 ]]></description>
-            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.5/jjogae-macOS-1.0.5.dmg" length="10095920" type="application/octet-stream" sparkle:edSignature="fXiRB7i3pcpCh2ImKq5sAKisztjnBQX2qMCcIAJr6MD/wKdVV1x3RGqW+X9y4M4RJq6s6uYMKVrtVBJe4HncBg=="></enclosure>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.6/jjogae-macOS-1.0.6.dmg" length="10049540" type="application/octet-stream" sparkle:edSignature="yvu1igLC9u0DY2wmgvzehXqAdY0TwzYi4q/FgLSIrbDyWdMgUH3yxZ77meGBIQhbR/jG83Q1TBqkHzSSsuFQCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nZ+8uxdRaEVa4i5pskbOXC6ROkBEncMEi387dVrn3QmLeEmwsmfd6rof4I8jBKg19wnogkfbfjJrawd08taFDQ==
-length: 1272
+edSignature: eqjS9Joo7givRow7lKNwgPXLr79y2gN+g7QbaAp0jUcVJQuv+Pg/6O94EDgCTvm6S6CYsuonrCRp+x5g+xZfAg==
+length: 1285
 -->
