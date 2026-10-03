@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
-            <title>1.0.8</title>
-            <pubDate>Sat, 03 Oct 2026 23:13:10 +0900</pubDate>
+            <title>1.0.9</title>
+            <pubDate>Sun, 04 Oct 2026 00:50:12 +0900</pubDate>
             <link>https://github.com/xXkurotoriXx/jjogae-macOS</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[로그아웃시 치즈기록이 사라지지 않는 문제를 해결하였습니다
+            <description sparkle:format="plain-text"><![CDATA[버그 수정
 ]]></description>
-            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.8/jjogae-macOS-1.0.8.dmg" length="10050280" type="application/octet-stream" sparkle:edSignature="iIk79q5ofAoQxqzu2pfuGQ4AOmBchPFlTZgJza1MCsjsdozFTZoNo9U0aDxhNEtmo6RPORDdxjDs8wqH262JCw=="></enclosure>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.9/jjogae-macOS-1.0.9.dmg" length="10080403" type="application/octet-stream" sparkle:edSignature="QxiqdbkefVf83+WngUt76x9+EogYW//CVanGa0CuaL1ndbbYmBErPfDhOyOwXuPWog8Hu9oEhugKUndO9+3SBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nu3dyIDQFkErbtaRRX81S7HpX9SrHj/YGnFYK/i0mBXCv/0CWjMIw+UdAlvp+oj2uN5hwBNpWfac/M6HFF8XBA==
-length: 1320
+edSignature: MJQwKclETwhO6vQYesZ99/PFZgXmlvZ9rkihXepE8NVjdltkpWSkJ/Fd9sJJppkz5CodDkHur4al1FZZHthrAg==
+length: 1250
 -->
