@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
-            <title>1.0.9</title>
-            <pubDate>Sun, 04 Oct 2026 00:50:12 +0900</pubDate>
-            <link>https://github.com/xXkurotoriXx/jjogae-macOS</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>1.0.10</title>
+            <pubDate>Mon, 05 Oct 2026 01:45:53 +0900</pubDate>
+            <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.0.10</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[버그 수정
+            <description sparkle:format="plain-text"><![CDATA[앱재시작시 동기화를 진행합니다
 ]]></description>
-            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.9/jjogae-macOS-1.0.9.dmg" length="10080403" type="application/octet-stream" sparkle:edSignature="QxiqdbkefVf83+WngUt76x9+EogYW//CVanGa0CuaL1ndbbYmBErPfDhOyOwXuPWog8Hu9oEhugKUndO9+3SBQ=="></enclosure>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.10/jjogae-macOS-1.0.10.dmg" length="10029899" type="application/octet-stream" sparkle:edSignature="kXXyLAYXrwqjaILjWds6xDc7q4tI34IwpoI7N0LxsNz9+axNlnG/H1bAz7k3z/RO21vfrIg3HTYR5RhYPXFcDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MJQwKclETwhO6vQYesZ99/PFZgXmlvZ9rkihXepE8NVjdltkpWSkJ/Fd9sJJppkz5CodDkHur4al1FZZHthrAg==
-length: 1250
+edSignature: Zd5w6fstyOjQPeTgHjPLEWQ+cdUYNQ0qOcAAR9D0O3vGps07Cz7qDIR1QtcBlLhewxyej+pzD4P2WhPwwtcKDQ==
+length: 1307
 -->
