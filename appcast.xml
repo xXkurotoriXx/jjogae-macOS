@@ -1,8 +1,21 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>쪼개 상황실</title>
+        <item>
+            <title>1.0.12</title>
+            <pubDate>Thu, 08 Oct 2026 12:20:08 +0900</pubDate>
+            <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.0.12</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[버그 수정
+]]></description>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.12/jjogae-macOS-1.0.12.dmg" length="10071592" type="application/octet-stream" sparkle:edSignature="r8muGyIhs8nOloC5VcbC8J81V3VpsYbErr6nK6HFqcEeSCT460JK35/Cujo8TEZyUDAHX569qSRBbcVjem3WCA=="/>
+        </item>
         <item>
             <title>1.0.11</title>
             <pubDate>Wed, 07 Oct 2026 19:10:47 +0900</pubDate>
@@ -12,10 +25,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[버그 수정
 ]]></description>
-            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.11/jjogae-macOS-1.0.11.dmg" length="10038571" type="application/octet-stream" sparkle:edSignature="QmoTVlf6NwouZYOcDSpV4YVs1z6WAT3fiWMtT8vDE5Pwa2ud1tYsXHIenqU7TASENDSt98UjKWzdncsXcqTGAw=="></enclosure>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.0.11/jjogae-macOS-1.0.11.dmg" length="10038571" type="application/octet-stream" sparkle:edSignature="QmoTVlf6NwouZYOcDSpV4YVs1z6WAT3fiWMtT8vDE5Pwa2ud1tYsXHIenqU7TASENDSt98UjKWzdncsXcqTGAw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: bNC0BiJDmvE9s4JpY/mS08CF2cuoQcTRCoBvtP3+ZmYZSOOKqvweLkPZBxB1gxJ2v654uHohkPn9WjJZvq42BA==
-length: 1276
+</rss>
+<!-- sparkle-signatures:
+edSignature: bvI32PtehFMmTCw6zn2SxcpPHDN5Q8exU9vqu07CCTiOjEnF2lrx5KzoUhUGjEtma5bGgwiYn4BsYPgeyEPyBQ==
+length: 2072
 -->
