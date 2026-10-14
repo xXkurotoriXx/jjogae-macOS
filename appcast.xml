@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 14 Oct 2026 22:45:03 +0900</pubDate>
+            <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.1.0</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[사용치즈 합계 계산 항목 일부 변경
+]]></description>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.1.0/jjogae-macOS-1.1.0.dmg" length="10062912" type="application/octet-stream" sparkle:edSignature="Hu/HNrsZrEns3dUGoiCiIJA8vw//Ew0p3YwxXP87AriLOPDWRYW0+8x6seKkuBfZqvrLosl4T+7ollPkZxYaBQ=="/>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Thu, 08 Oct 2026 12:20:08 +0900</pubDate>
             <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.0.12</link>
@@ -30,6 +41,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: bvI32PtehFMmTCw6zn2SxcpPHDN5Q8exU9vqu07CCTiOjEnF2lrx5KzoUhUGjEtma5bGgwiYn4BsYPgeyEPyBQ==
-length: 2072
+edSignature: fe3gCGb1tpSzGLDLOqHGAGeEO42gXMJOLzPdV+I+SrcQ6hBSFW/QYXtfWpUmuYQ2WZz1B6jvRFdAAfIkTZKyDQ==
+length: 2905
 -->
