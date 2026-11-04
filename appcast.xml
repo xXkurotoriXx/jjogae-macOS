@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 04 Nov 2026 23:14:56 +0900</pubDate>
+            <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.1.1</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[27.2 업데이트 대응
+
+로그인 상태를 확인하지 못해도 앱 업데이트 확인·자동 확인과 공개 정보 새로고침이 작동하도록 수정했습니다.]]></description>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.1.1/jjogae-macOS-1.1.1.dmg" length="10037379" type="application/octet-stream" sparkle:edSignature="vs4PI2la6lAJ3EWGrhm2igIFeFhxvRhdW/ZszejSDHlFiLoGQ7OwaCvEVm+v+6kzdbPL9A/Jlh7CONE4IzBpBw=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 14 Oct 2026 22:45:03 +0900</pubDate>
             <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.1.0</link>
@@ -41,6 +53,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: fe3gCGb1tpSzGLDLOqHGAGeEO42gXMJOLzPdV+I+SrcQ6hBSFW/QYXtfWpUmuYQ2WZz1B6jvRFdAAfIkTZKyDQ==
-length: 2905
+edSignature: eqPf/NPAgwKIlc0/YfiKSHiG3FO6wYhRlPRZ4iealIwfOBuRYbSeCOe51RIxKOeeLCJcIwU00ieL1Y9LrnOEDQ==
+length: 3866
 -->
