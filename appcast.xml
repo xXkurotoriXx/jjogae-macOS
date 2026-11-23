@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>쪼개 상황실</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Mon, 23 Nov 2026 09:12:28 +0900</pubDate>
+            <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.1.2</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[치즈 기록 동기화와 YouTube 멤버십 기간 표시를 개선했습니다. 플로팅 메뉴에 macOS 27 네이티브 탭을 적용했습니다.]]></description>
+            <enclosure url="https://github.com/xXkurotoriXx/jjogae-macOS/releases/download/v1.1.2/jjogae-macOS-1.1.2.dmg" length="10422970" type="application/octet-stream" sparkle:edSignature="UAghW+VA8U/KpBg4dpTFRZaLSBs0eXaWk259ftrIUzRGgSyzGdVctPeuDF4trrSj/BKpJLg7vu0oyhMoUYVQDA=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Wed, 04 Nov 2026 23:14:56 +0900</pubDate>
             <link>https://github.com/xXkurotoriXx/jjogae-macOS/releases/tag/v1.1.1</link>
@@ -53,6 +63,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: eqPf/NPAgwKIlc0/YfiKSHiG3FO6wYhRlPRZ4iealIwfOBuRYbSeCOe51RIxKOeeLCJcIwU00ieL1Y9LrnOEDQ==
-length: 3866
+edSignature: WmYE4K0yGj+lOBCEcPYCaq7y9pzQGq1itLrxrCW8R4s8RnxP59sAixz11DPZeixrvAUl018wL+jRoZZiu3bPCw==
+length: 4801
 -->
